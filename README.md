@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization?style=flat-square&color=rose" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Web-Performance-Frontend-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0--1.0-green?style=flat-square" alt="License" /></a>
@@ -70,9 +70,9 @@ The table below catalogs premier commercial web acceleration, Core Web Vitals RU
 
 ## 🛠️ Open-Source GitHub Projects
 
-Curated open-source projects for frontend compilation, bundle minification, media transcoding, and runtime performance tracking. Sorted descending by GitHub star counts.
+Curated open-source projects for frontend compilation, bundle minification, media transcoding, and runtime performance tracking. Sorted descending by GitHub Stars_Counts.
 
-| Repository | GitHub Stars | Focus & Description |
+| Repository | GitHub_Stars | Focus & Description |
 | :--- | :--- | :--- |
 | **[pbakaus/impeccable](https://github.com/pbakaus/impeccable)** | [![Stars](https://img.shields.io/github/stars/pbakaus/impeccable?style=social&color=white)](https://github.com/pbakaus/impeccable/stargazers) | Design vocabulary, performance & frontend craft auditing skill for AI coding agents (Claude Code, Cursor, Codex). |
 | **[vitejs/vite](https://github.com/vitejs/vite)** | [![Stars](https://img.shields.io/github/stars/vitejs/vite?style=social&color=white)](https://github.com/vitejs/vite/stargazers) | Next-generation frontend build tool leveraging native ES modules and high-performance production bundling. |
